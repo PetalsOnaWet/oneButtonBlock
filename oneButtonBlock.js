@@ -45,7 +45,7 @@ var timeout = false; //启动及关闭按钮
 		timeout = true
 		var con = confirm('屏蔽完成，如果满意点确定帮我star')
 		if(con===true){
-			window.open('https://github.com/PetalsOnaWet/one-button-block')
+			window.location.href='https://github.com/PetalsOnaWet/one-button-block'
 		}else{
 			//do nothing
 		}
