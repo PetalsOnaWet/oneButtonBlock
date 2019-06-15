@@ -24,7 +24,7 @@ Tampermonkey 是一款浏览器脚本管理插件，常见浏览器都支持，�
 
 ### 3，如何使用
 
-用官方推特进入指定用户页面，点击他的关注者列表，出现一键屏蔽按钮，点击即可将该用户以及该用户所有的follower屏蔽。
+用官方推特进入指定用户页面，点击他的关注者列表，出现一键屏蔽按钮，点击之后耐心等候，即可将该用户以及该用户所有的follower屏蔽。结束后会有提示
 
 
 ![Step1](https://github.com/PetalsOnaWet/oneButtonBlock/blob/master/step1.png)
