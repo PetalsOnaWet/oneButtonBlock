@@ -33,4 +33,4 @@ Tampermonkey 是一款浏览器脚本管理插件，常见浏览器都支持，�
 
 ![Step2](https://github.com/PetalsOnaWet/oneButtonBlock/blob/master/step2.png)
 
-![Step3](https://github.com/PetalsOnaWet/oneButtonBlock/blob/master/step3.png)
+![Step3](https://github.com/PetalsOnaWet/oneButtonBlock/blob/master/step3.jpg)
