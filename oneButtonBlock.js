@@ -4,7 +4,7 @@
 // @namespace       暂无
 // @author          PetalsOnaWet
 // @description     用官方推特进入指定用户页面，点击关注着列表，出现一键屏蔽，即可将该用户以及该用户所有的follower屏蔽
-// @match           *://twitter.com/*/followers/*
+// @match           *://twitter.com/*/followers
 // @version         0.0.1
 // @grant           GM_addStyle
 // ==/UserScript==
